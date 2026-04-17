@@ -1,12 +1,19 @@
 @import "tailwindcss";
 
 :root {
+  --font-display: var(--font-ui);
   --arabic-font-size: 36px;
   --translation-font-size: 18px;
   --arabic-font-family: var(--font-arabic-naskh);
   --arabic-font-weight: 500;
   --arabic-letter-spacing: 0em;
   --arabic-line-height: 2.1;
+  --bg-aurora: radial-gradient(circle at 8% -10%, #fef3c7 0%, transparent 48%),
+    radial-gradient(circle at 100% 10%, #bae6fd 0%, transparent 35%),
+    linear-gradient(175deg, #f8fafc 0%, #fefce8 48%, #ffffff 100%);
+  --surface-glass: rgba(255, 255, 255, 0.78);
+  --surface-border: rgba(148, 163, 184, 0.28);
+  --ease-snappy: cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
 html[data-arabic-font="naskh"] {
@@ -88,6 +95,21 @@ html[data-arabic-font="lateef"] {
 
 body {
   font-family: var(--font-ui), sans-serif;
+  background-image: var(--bg-aurora);
+  background-attachment: fixed;
+  color: #0f172a;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display), serif;
+  letter-spacing: -0.02em;
+}
+
+::selection {
+  background: rgba(251, 191, 36, 0.25);
+  color: #0f172a;
 }
 
 .arabic-text {
@@ -100,4 +122,89 @@ body {
 
 .translation-text {
   font-size: var(--translation-font-size);
+}
+
+.page-shell {
+  min-height: 100vh;
+  padding: 2.25rem 1rem;
+}
+
+.panel-surface {
+  border: 1px solid var(--surface-border);
+  background: var(--surface-glass);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+}
+
+.reveal-up {
+  opacity: 0;
+  transform: translateY(12px);
+  animation: reveal-up 560ms var(--ease-snappy) forwards;
+  animation-delay: var(--stagger, 0ms);
+}
+
+.floating-card {
+  transition: transform 240ms var(--ease-snappy), box-shadow 240ms var(--ease-snappy),
+    border-color 240ms var(--ease-snappy), background-color 240ms var(--ease-snappy);
+}
+
+.floating-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 34px rgba(15, 23, 42, 0.11);
+}
+
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background-color: #e2e8f0;
+}
+
+.skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(90deg, transparent 0%, rgba(255, 255, 255, 0.7) 52%, transparent 100%);
+  animation: shimmer 1.35s ease-in-out infinite;
+}
+
+@keyframes reveal-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  to {
+    transform: translateX(100%);
+  }
+}
+
+@media (min-width: 640px) {
+  .page-shell {
+    padding: 2.75rem 1.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .page-shell {
+    padding: 3rem 2.5rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal-up,
+  .floating-card,
+  .skeleton::after {
+    animation: none !important;
+    transition: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+  }
 }

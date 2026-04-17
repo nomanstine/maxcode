@@ -36,9 +36,9 @@ export function SearchPanel({ searchIndex, surahs }: SearchPanelProps) {
   }, [fuse, query]);
 
   return (
-    <section className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-      <h2 className="text-lg font-semibold text-slate-900">Search Ayahs (English Translation)</h2>
-      <p className="mt-1 text-sm text-slate-600">
+    <section className="panel-surface rounded-2xl p-5 sm:p-6">
+      <h2 className="text-2xl font-semibold text-slate-900">Search Ayahs</h2>
+      <p className="mt-2 text-sm leading-6 text-slate-600">
         Search by translation text. Minimum 2 characters.
       </p>
 
@@ -47,7 +47,7 @@ export function SearchPanel({ searchIndex, surahs }: SearchPanelProps) {
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         placeholder="e.g. mercy, guidance, patience"
-        className="mt-4 w-full rounded-xl border border-slate-300 bg-white px-4 py-3 text-sm outline-none ring-0 transition focus:border-slate-500"
+        className="mt-4 w-full rounded-xl border border-slate-300/80 bg-white/95 px-4 py-3 text-sm outline-none ring-0 transition focus:border-amber-400 focus:shadow-[0_0_0_3px_rgba(251,191,36,0.25)]"
       />
 
       <div className="mt-4 space-y-3">
@@ -61,7 +61,7 @@ export function SearchPanel({ searchIndex, surahs }: SearchPanelProps) {
             <Link
               key={`${item.surahId}-${item.ayahNumber}`}
               href={`/surah/${item.surahId}#ayah-${item.ayahNumber}`}
-              className="block rounded-xl border border-slate-200 bg-slate-50 p-3 transition hover:border-slate-400 hover:bg-white"
+              className="floating-card block rounded-xl border border-slate-200 bg-slate-50/80 p-3.5 transition hover:border-amber-300/80 hover:bg-white"
             >
               <p className="text-xs font-semibold uppercase tracking-wide text-slate-500">
                 {surah?.englishName ?? `Surah ${item.surahId}`} - Ayah {item.ayahNumber}

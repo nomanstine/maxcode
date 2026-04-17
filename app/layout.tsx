@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import {
   Amiri_Quran,
   Aref_Ruqaa_Ink,
+  Fraunces,
   Gulzar,
   Lalezar,
   Lateef,
@@ -19,6 +20,12 @@ import Providers from "./providers";
 const manrope = Manrope({
   subsets: ["latin"],
   variable: "--font-ui",
+});
+
+const fraunces = Fraunces({
+  subsets: ["latin"],
+  variable: "--font-display",
+  weight: ["400", "500", "600", "700"],
 });
 
 const notoNaskh = Noto_Naskh_Arabic({
@@ -100,7 +107,7 @@ export default function RootLayout({
   return (
     <html lang="en" data-arabic-font="naskh">
       <body
-        className={`${manrope.variable} ${notoNaskh.variable} ${amiriQuran.variable} ${notoKufi.variable} ${nastaliq.variable} ${reemFun.variable} ${reemInk.variable} ${arefInk.variable} ${mirza.variable} ${lalezar.variable} ${gulzar.variable} ${lateef.variable} bg-slate-50 text-slate-900 antialiased`}
+        className={`${manrope.variable} ${fraunces.variable} ${notoNaskh.variable} ${amiriQuran.variable} ${notoKufi.variable} ${nastaliq.variable} ${reemFun.variable} ${reemInk.variable} ${arefInk.variable} ${mirza.variable} ${lalezar.variable} ${gulzar.variable} ${lateef.variable} bg-slate-50 text-slate-900 antialiased`}
       >
         <Providers>{children}</Providers>
       </body>
