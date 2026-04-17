@@ -1,0 +1,50 @@
+[
+  {
+    "surahId": 102,
+    "ayahNumber": 1,
+    "arabicText": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+    "translationText": "Abundance distracts you."
+  },
+  {
+    "surahId": 102,
+    "ayahNumber": 2,
+    "arabicText": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+    "translationText": "Until you visit the graveyards."
+  },
+  {
+    "surahId": 102,
+    "ayahNumber": 3,
+    "arabicText": "كَلَّا سَوْفَ تَعْلَمُونَ",
+    "translationText": "Indeed, you will know."
+  },
+  {
+    "surahId": 102,
+    "ayahNumber": 4,
+    "arabicText": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+    "translationText": "Certainly, you will know."
+  },
+  {
+    "surahId": 102,
+    "ayahNumber": 5,
+    "arabicText": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+    "translationText": "If you knew with knowledge of certainty."
+  },
+  {
+    "surahId": 102,
+    "ayahNumber": 6,
+    "arabicText": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+    "translationText": "You would see the Inferno."
+  },
+  {
+    "surahId": 102,
+    "ayahNumber": 7,
+    "arabicText": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+    "translationText": "Then you will see it with the eye of certainty."
+  },
+  {
+    "surahId": 102,
+    "ayahNumber": 8,
+    "arabicText": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+    "translationText": "Then, on that Day, you will be questioned about the Bliss."
+  }
+]

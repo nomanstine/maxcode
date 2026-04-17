@@ -1,0 +1,26 @@
+[
+  {
+    "surahId": 112,
+    "ayahNumber": 1,
+    "arabicText": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+    "translationText": "Say, \"He is God, the One."
+  },
+  {
+    "surahId": 112,
+    "ayahNumber": 2,
+    "arabicText": "ٱللَّهُ ٱلصَّمَدُ",
+    "translationText": "God, the Absolute."
+  },
+  {
+    "surahId": 112,
+    "ayahNumber": 3,
+    "arabicText": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+    "translationText": "He begets not, nor was He begotten."
+  },
+  {
+    "surahId": 112,
+    "ayahNumber": 4,
+    "arabicText": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+    "translationText": "And there is nothing comparable to Him.\""
+  }
+]

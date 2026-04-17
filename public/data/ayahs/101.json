@@ -1,0 +1,68 @@
+[
+  {
+    "surahId": 101,
+    "ayahNumber": 1,
+    "arabicText": "ٱلْقَارِعَةُ",
+    "translationText": "The Shocker."
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 2,
+    "arabicText": "مَا ٱلْقَارِعَةُ",
+    "translationText": "What is the Shocker?"
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 3,
+    "arabicText": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+    "translationText": "What will explain to you what the Shocker is?"
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 4,
+    "arabicText": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+    "translationText": "The Day when the people will be like scattered moths."
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 5,
+    "arabicText": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+    "translationText": "And the mountains will be like tufted wool."
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 6,
+    "arabicText": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+    "translationText": "As for he whose scales are heavy."
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 7,
+    "arabicText": "فَهُوَ فِى عِيشَةٍۢ رَّاضِيَةٍۢ",
+    "translationText": "He will be in a pleasant life."
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 8,
+    "arabicText": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+    "translationText": "But as for he whose scales are light."
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 9,
+    "arabicText": "فَأُمُّهُۥ هَاوِيَةٌۭ",
+    "translationText": "His home is the Abyss."
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 10,
+    "arabicText": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+    "translationText": "Do you know what it is?"
+  },
+  {
+    "surahId": 101,
+    "ayahNumber": 11,
+    "arabicText": "نَارٌ حَامِيَةٌۢ",
+    "translationText": "A Raging Fire."
+  }
+]

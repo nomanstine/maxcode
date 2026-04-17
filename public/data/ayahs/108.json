@@ -1,0 +1,20 @@
+[
+  {
+    "surahId": 108,
+    "ayahNumber": 1,
+    "arabicText": "إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+    "translationText": "We have given you plenty."
+  },
+  {
+    "surahId": 108,
+    "ayahNumber": 2,
+    "arabicText": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+    "translationText": "So pray to your Lord and sacrifice."
+  },
+  {
+    "surahId": 108,
+    "ayahNumber": 3,
+    "arabicText": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+    "translationText": "He who hates you is the loser."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "surahId": 99,
+    "ayahNumber": 1,
+    "arabicText": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+    "translationText": "When the earth is shaken with its quake."
+  },
+  {
+    "surahId": 99,
+    "ayahNumber": 2,
+    "arabicText": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+    "translationText": "And the earth brings out its loads."
+  },
+  {
+    "surahId": 99,
+    "ayahNumber": 3,
+    "arabicText": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+    "translationText": "And man says, \"What is the matter with it?\""
+  },
+  {
+    "surahId": 99,
+    "ayahNumber": 4,
+    "arabicText": "يَوْمَئِذٍۢ تُحَدِّثُ أَخْبَارَهَا",
+    "translationText": "On that Day, it will tell its tales."
+  },
+  {
+    "surahId": 99,
+    "ayahNumber": 5,
+    "arabicText": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+    "translationText": "For your Lord will have inspired it."
+  },
+  {
+    "surahId": 99,
+    "ayahNumber": 6,
+    "arabicText": "يَوْمَئِذٍۢ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًۭا لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+    "translationText": "On that Day, the people will emerge in droves, to be shown their works."
+  },
+  {
+    "surahId": 99,
+    "ayahNumber": 7,
+    "arabicText": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًۭا يَرَهُۥ",
+    "translationText": "Whoever has done an atom's weight of good will see it."
+  },
+  {
+    "surahId": 99,
+    "ayahNumber": 8,
+    "arabicText": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍۢ شَرًّۭا يَرَهُۥ",
+    "translationText": "And whoever has done an atom's weight of evil will see it."
+  }
+]

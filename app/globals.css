@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+:root {
+  --arabic-font-size: 36px;
+  --translation-font-size: 18px;
+  --arabic-font-family: var(--font-arabic-naskh);
+  --arabic-font-weight: 500;
+  --arabic-letter-spacing: 0em;
+  --arabic-line-height: 2.1;
+}
+
+html[data-arabic-font="naskh"] {
+  --arabic-font-family: var(--font-arabic-naskh);
+  --arabic-font-weight: 500;
+  --arabic-letter-spacing: 0em;
+  --arabic-line-height: 2.1;
+}
+
+html[data-arabic-font="amiriQuran"] {
+  --arabic-font-family: var(--font-arabic-amiri-quran);
+  --arabic-font-weight: 400;
+  --arabic-letter-spacing: 0em;
+  --arabic-line-height: 2.2;
+}
+
+html[data-arabic-font="kufi"] {
+  --arabic-font-family: var(--font-arabic-kufi);
+  --arabic-font-weight: 700;
+  --arabic-letter-spacing: 0.015em;
+  --arabic-line-height: 2;
+}
+
+html[data-arabic-font="nastaliq"] {
+  --arabic-font-family: var(--font-arabic-nastaliq);
+  --arabic-font-weight: 500;
+  --arabic-letter-spacing: 0.01em;
+  --arabic-line-height: 2.35;
+}
+
+html[data-arabic-font="reemFun"] {
+  --arabic-font-family: var(--font-arabic-reem-fun);
+  --arabic-font-weight: 700;
+  --arabic-letter-spacing: 0.02em;
+  --arabic-line-height: 2;
+}
+
+html[data-arabic-font="reemInk"] {
+  --arabic-font-family: var(--font-arabic-reem-ink);
+  --arabic-font-weight: 400;
+  --arabic-letter-spacing: 0.01em;
+  --arabic-line-height: 2.08;
+}
+
+html[data-arabic-font="arefInk"] {
+  --arabic-font-family: var(--font-arabic-aref-ink);
+  --arabic-font-weight: 700;
+  --arabic-letter-spacing: 0.005em;
+  --arabic-line-height: 2.18;
+}
+
+html[data-arabic-font="mirza"] {
+  --arabic-font-family: var(--font-arabic-mirza);
+  --arabic-font-weight: 600;
+  --arabic-letter-spacing: 0.006em;
+  --arabic-line-height: 2.15;
+}
+
+html[data-arabic-font="lalezar"] {
+  --arabic-font-family: var(--font-arabic-lalezar);
+  --arabic-font-weight: 400;
+  --arabic-letter-spacing: 0.02em;
+  --arabic-line-height: 1.95;
+}
+
+html[data-arabic-font="gulzar"] {
+  --arabic-font-family: var(--font-arabic-gulzar);
+  --arabic-font-weight: 400;
+  --arabic-letter-spacing: 0.015em;
+  --arabic-line-height: 2.25;
+}
+
+html[data-arabic-font="lateef"] {
+  --arabic-font-family: var(--font-arabic-lateef);
+  --arabic-font-weight: 500;
+  --arabic-letter-spacing: 0em;
+  --arabic-line-height: 2.25;
+}
+
+body {
+  font-family: var(--font-ui), sans-serif;
+}
+
+.arabic-text {
+  font-family: var(--arabic-font-family), serif;
+  font-size: var(--arabic-font-size);
+  font-weight: var(--arabic-font-weight);
+  letter-spacing: var(--arabic-letter-spacing);
+  line-height: var(--arabic-line-height);
+}
+
+.translation-text {
+  font-size: var(--translation-font-size);
+}

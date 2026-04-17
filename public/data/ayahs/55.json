@@ -1,0 +1,470 @@
+[
+  {
+    "surahId": 55,
+    "ayahNumber": 1,
+    "arabicText": "ٱلرَّحْمَٰنُ",
+    "translationText": "The Compassionate."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 2,
+    "arabicText": "عَلَّمَ ٱلْقُرْءَانَ",
+    "translationText": "Has taught the Quran."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 3,
+    "arabicText": "خَلَقَ ٱلْإِنسَٰنَ",
+    "translationText": "He created man."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 4,
+    "arabicText": "عَلَّمَهُ ٱلْبَيَانَ",
+    "translationText": "And taught him clear expression."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 5,
+    "arabicText": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍۢ",
+    "translationText": "The sun and the moon move according to plan."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 6,
+    "arabicText": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+    "translationText": "And the stars and the trees prostrate themselves."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 7,
+    "arabicText": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+    "translationText": "And the sky, He raised; and He set up the balance."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 8,
+    "arabicText": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+    "translationText": "So do not transgress in the balance."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 9,
+    "arabicText": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+    "translationText": "But maintain the weights with justice, and do not violate the balance."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 10,
+    "arabicText": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+    "translationText": "And the earth; He set up for the creatures."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 11,
+    "arabicText": "فِيهَا فَٰكِهَةٌۭ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+    "translationText": "In it are fruits, and palms in clusters."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 12,
+    "arabicText": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+    "translationText": "And grains in the blades, and fragrant plants."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 13,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 14,
+    "arabicText": "خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍۢ كَٱلْفَخَّارِ",
+    "translationText": "He created man from hard clay, like bricks."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 15,
+    "arabicText": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍۢ مِّن نَّارٍۢ",
+    "translationText": "And created the jinn from a fusion of fire."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 16,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 17,
+    "arabicText": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+    "translationText": "Lord of the two Easts and Lord of the two Wests."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 18,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 19,
+    "arabicText": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+    "translationText": "He merged the two seas, converging together."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 20,
+    "arabicText": "بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ",
+    "translationText": "Between them is a barrier, which they do not overrun."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 21,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 22,
+    "arabicText": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+    "translationText": "From them emerge pearls and coral."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 23,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 24,
+    "arabicText": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ",
+    "translationText": "His are the ships, raised above the sea like landmarks."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 25,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 26,
+    "arabicText": "كُلُّ مَنْ عَلَيْهَا فَانٍۢ",
+    "translationText": "Everyone upon it is perishing."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 27,
+    "arabicText": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+    "translationText": "But will remain the Presence of your Lord, Full of Majesty and Splendor."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 28,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 29,
+    "arabicText": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۢ",
+    "translationText": "Everyone in the heavens and the earth asks Him. Every day He is managing."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 30,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 31,
+    "arabicText": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+    "translationText": "We will attend to you, O prominent two."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 32,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 33,
+    "arabicText": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍۢ",
+    "translationText": "O society of jinn and humans! If you can pass through the bounds of the heavens and the earth, go ahead and pass. But you will not pass except with authorization."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 34,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 35,
+    "arabicText": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ",
+    "translationText": "You will be bombarded with flares of fire and brass, and you will not succeed."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 36,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 37,
+    "arabicText": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
+    "translationText": "When the sky splits apart, and becomes rose, like paint."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 38,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 39,
+    "arabicText": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ",
+    "translationText": "On that Day, no human and no jinn will be asked about his sins."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 40,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 41,
+    "arabicText": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+    "translationText": "The guilty will be recognized by their marks; they will be taken by the forelocks and the feet."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 42,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 43,
+    "arabicText": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+    "translationText": "This is Hell that the guilty denied."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 44,
+    "arabicText": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍۢ",
+    "translationText": "They circulate between it and between a seething bath."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 45,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 46,
+    "arabicText": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+    "translationText": "But for him who feared the standing of his Lord are two gardens."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 47,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 48,
+    "arabicText": "ذَوَاتَآ أَفْنَانٍۢ",
+    "translationText": "Full of varieties."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 49,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 50,
+    "arabicText": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+    "translationText": "In them are two flowing springs."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 51,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 52,
+    "arabicText": "فِيهِمَا مِن كُلِّ فَٰكِهَةٍۢ زَوْجَانِ",
+    "translationText": "In them are fruits of every kind, in pairs."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 53,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 54,
+    "arabicText": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍۢ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍۢ",
+    "translationText": "Reclining on furnishings lined with brocade, and the fruits of the two gardens are near at hand."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 55,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 56,
+    "arabicText": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+    "translationText": "In them are maidens restraining their glances, untouched before by any man or jinn."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 57,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 58,
+    "arabicText": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+    "translationText": "As though they were rubies and corals."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 59,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 60,
+    "arabicText": "هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ",
+    "translationText": "Is the reward of goodness anything but goodness?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 61,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 62,
+    "arabicText": "وَمِن دُونِهِمَا جَنَّتَانِ",
+    "translationText": "And beneath them are two gardens."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 63,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 64,
+    "arabicText": "مُدْهَآمَّتَانِ",
+    "translationText": "Deep green."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 65,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 66,
+    "arabicText": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+    "translationText": "In them are two gushing springs."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 67,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 68,
+    "arabicText": "فِيهِمَا فَٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ",
+    "translationText": "In them are fruits, and date-palms, and pomegranates."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 69,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 70,
+    "arabicText": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ",
+    "translationText": "In them are good and beautiful ones."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 71,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 72,
+    "arabicText": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى ٱلْخِيَامِ",
+    "translationText": "Companions, secluded in the tents."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 73,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 74,
+    "arabicText": "لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+    "translationText": "Whom no human has touched before, nor jinn."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 75,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 76,
+    "arabicText": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ",
+    "translationText": "Reclining on green cushions, and exquisite carpets."
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 77,
+    "arabicText": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+    "translationText": "So which of your Lord's marvels will you deny?"
+  },
+  {
+    "surahId": 55,
+    "ayahNumber": 78,
+    "arabicText": "تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+    "translationText": "Blessed be the name of your Lord, Full of Majesty and Splendor."
+  }
+]

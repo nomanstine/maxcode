@@ -1,0 +1,32 @@
+[
+  {
+    "surahId": 111,
+    "ayahNumber": 1,
+    "arabicText": "تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
+    "translationText": "Condemned are the hands of Abee Lahab, and he is condemned."
+  },
+  {
+    "surahId": 111,
+    "ayahNumber": 2,
+    "arabicText": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+    "translationText": "His wealth did not avail him, nor did what he acquired."
+  },
+  {
+    "surahId": 111,
+    "ayahNumber": 3,
+    "arabicText": "سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ",
+    "translationText": "He will burn in a Flaming Fire."
+  },
+  {
+    "surahId": 111,
+    "ayahNumber": 4,
+    "arabicText": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+    "translationText": "And his wife-the firewood carrier."
+  },
+  {
+    "surahId": 111,
+    "ayahNumber": 5,
+    "arabicText": "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ",
+    "translationText": "Around her neck is a rope of thorns."
+  }
+]

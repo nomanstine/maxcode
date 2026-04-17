@@ -1,0 +1,44 @@
+[
+  {
+    "surahId": 1,
+    "ayahNumber": 1,
+    "arabicText": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "translationText": "In the name of God, the Gracious, the Merciful."
+  },
+  {
+    "surahId": 1,
+    "ayahNumber": 2,
+    "arabicText": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+    "translationText": "Praise be to God, Lord of the Worlds."
+  },
+  {
+    "surahId": 1,
+    "ayahNumber": 3,
+    "arabicText": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "translationText": "The Most Gracious, the Most Merciful."
+  },
+  {
+    "surahId": 1,
+    "ayahNumber": 4,
+    "arabicText": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
+    "translationText": "Master of the Day of Judgment."
+  },
+  {
+    "surahId": 1,
+    "ayahNumber": 5,
+    "arabicText": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "translationText": "It is You we worship, and upon You we call for help."
+  },
+  {
+    "surahId": 1,
+    "ayahNumber": 6,
+    "arabicText": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "translationText": "Guide us to the straight path."
+  },
+  {
+    "surahId": 1,
+    "ayahNumber": 7,
+    "arabicText": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+    "translationText": "The path of those You have blessed, not of those against whom there is anger, nor of those who are misguided."
+  }
+]

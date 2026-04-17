@@ -1,0 +1,32 @@
+[
+  {
+    "surahId": 113,
+    "ayahNumber": 1,
+    "arabicText": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "translationText": "Say, \"I take refuge with the Lord of Daybreak."
+  },
+  {
+    "surahId": 113,
+    "ayahNumber": 2,
+    "arabicText": "مِن شَرِّ مَا خَلَقَ",
+    "translationText": "From the evil of what He created."
+  },
+  {
+    "surahId": 113,
+    "ayahNumber": 3,
+    "arabicText": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "translationText": "And from the evil of the darkness as it gathers."
+  },
+  {
+    "surahId": 113,
+    "ayahNumber": 4,
+    "arabicText": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+    "translationText": "And from the evil of those who practice sorcery."
+  },
+  {
+    "surahId": 113,
+    "ayahNumber": 5,
+    "arabicText": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+    "translationText": "And from the evil of an envious when he envies.\""
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "surahId": 21,
+    "ayahNumber": 1,
+    "arabicText": "ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍۢ مُّعْرِضُونَ",
+    "translationText": "Mankind's reckoning has drawn near, but they turn away heedlessly."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 2,
+    "arabicText": "مَا يَأْتِيهِم مِّن ذِكْرٍۢ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ",
+    "translationText": "No fresh reminder comes to them from their Lord, but they listen to it playfully."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 3,
+    "arabicText": "لَاهِيَةًۭ قُلُوبُهُمْ ۗ وَأَسَرُّوا۟ ٱلنَّجْوَى ٱلَّذِينَ ظَلَمُوا۟ هَلْ هَٰذَآ إِلَّا بَشَرٌۭ مِّثْلُكُمْ ۖ أَفَتَأْتُونَ ٱلسِّحْرَ وَأَنتُمْ تُبْصِرُونَ",
+    "translationText": "Their hearts distracted, the wrongdoers confer secretly, \"Is this anything but a mortal like you? Will you take to sorcery, with open-eyes?\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 4,
+    "arabicText": "قَالَ رَبِّى يَعْلَمُ ٱلْقَوْلَ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+    "translationText": "He said, \"My Lord knows what is said in the heaven and the earth; and He is the Hearer, the Knower.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 5,
+    "arabicText": "بَلْ قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍۭ بَلِ ٱفْتَرَىٰهُ بَلْ هُوَ شَاعِرٌۭ فَلْيَأْتِنَا بِـَٔايَةٍۢ كَمَآ أُرْسِلَ ٱلْأَوَّلُونَ",
+    "translationText": "And they said, \"A jumble of dreams,\" and, \"He made it up,\" and, \"He is a poet,\" \"let him bring us a sign, like those sent to the ancients.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 6,
+    "arabicText": "مَآ ءَامَنَتْ قَبْلَهُم مِّن قَرْيَةٍ أَهْلَكْنَٰهَآ ۖ أَفَهُمْ يُؤْمِنُونَ",
+    "translationText": "None of the towns We destroyed before them had believed. Will they, then, believe?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 7,
+    "arabicText": "وَمَآ أَرْسَلْنَا قَبْلَكَ إِلَّا رِجَالًۭا نُّوحِىٓ إِلَيْهِمْ ۖ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+    "translationText": "We did not send before you except men, whom We inspired. Ask the people of knowledge, if you do not know."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 8,
+    "arabicText": "وَمَا جَعَلْنَٰهُمْ جَسَدًۭا لَّا يَأْكُلُونَ ٱلطَّعَامَ وَمَا كَانُوا۟ خَٰلِدِينَ",
+    "translationText": "We did not make them mere bodies that ate no food, nor were they immortal."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 9,
+    "arabicText": "ثُمَّ صَدَقْنَٰهُمُ ٱلْوَعْدَ فَأَنجَيْنَٰهُمْ وَمَن نَّشَآءُ وَأَهْلَكْنَا ٱلْمُسْرِفِينَ",
+    "translationText": "Then We fulfilled Our promise to them, and We saved them together with whomever We willed, and We destroyed the extravagant."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 10,
+    "arabicText": "لَقَدْ أَنزَلْنَآ إِلَيْكُمْ كِتَٰبًۭا فِيهِ ذِكْرُكُمْ ۖ أَفَلَا تَعْقِلُونَ",
+    "translationText": "We have sent down to you a Book, containing your message. Do you not understand?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 11,
+    "arabicText": "وَكَمْ قَصَمْنَا مِن قَرْيَةٍۢ كَانَتْ ظَالِمَةًۭ وَأَنشَأْنَا بَعْدَهَا قَوْمًا ءَاخَرِينَ",
+    "translationText": "How many a guilty town have We crushed, and established thereafter another people?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 12,
+    "arabicText": "فَلَمَّآ أَحَسُّوا۟ بَأْسَنَآ إِذَا هُم مِّنْهَا يَرْكُضُونَ",
+    "translationText": "Then, when they sensed Our might, they started running away from it."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 13,
+    "arabicText": "لَا تَرْكُضُوا۟ وَٱرْجِعُوٓا۟ إِلَىٰ مَآ أُتْرِفْتُمْ فِيهِ وَمَسَٰكِنِكُمْ لَعَلَّكُمْ تُسْـَٔلُونَ",
+    "translationText": "Do not run, but come back to your luxuries, and to your homes, that you may be questioned."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 14,
+    "arabicText": "قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+    "translationText": "They said, \"Woe to us; we were unfair.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 15,
+    "arabicText": "فَمَا زَالَت تِّلْكَ دَعْوَىٰهُمْ حَتَّىٰ جَعَلْنَٰهُمْ حَصِيدًا خَٰمِدِينَ",
+    "translationText": "This continued to be their cry, until We made them silent ashes."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 16,
+    "arabicText": "وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَٰعِبِينَ",
+    "translationText": "We did not create the sky and the earth and what is between them for amusement."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 17,
+    "arabicText": "لَوْ أَرَدْنَآ أَن نَّتَّخِذَ لَهْوًۭا لَّٱتَّخَذْنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ",
+    "translationText": "If We wanted amusement, We could have found it within Us, were We to do so."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 18,
+    "arabicText": "بَلْ نَقْذِفُ بِٱلْحَقِّ عَلَى ٱلْبَٰطِلِ فَيَدْمَغُهُۥ فَإِذَا هُوَ زَاهِقٌۭ ۚ وَلَكُمُ ٱلْوَيْلُ مِمَّا تَصِفُونَ",
+    "translationText": "In fact, We hurl the truth against falsehood, and it crushes it, so it vanishes. Woe unto you, for what you describe."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 19,
+    "arabicText": "وَلَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَمَنْ عِندَهُۥ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَلَا يَسْتَحْسِرُونَ",
+    "translationText": "To Him belongs everyone in the heavens and the earth. Those near Him are not too proud to worship Him, nor do they waver."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 20,
+    "arabicText": "يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ",
+    "translationText": "They praise night and day, without ever tiring."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 21,
+    "arabicText": "أَمِ ٱتَّخَذُوٓا۟ ءَالِهَةًۭ مِّنَ ٱلْأَرْضِ هُمْ يُنشِرُونَ",
+    "translationText": "Or have they taken to themselves gods from the earth who resurrect?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 22,
+    "arabicText": "لَوْ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَا ۚ فَسُبْحَٰنَ ٱللَّهِ رَبِّ ٱلْعَرْشِ عَمَّا يَصِفُونَ",
+    "translationText": "If there were in them gods other than God, they would have gone to ruin. So glory be to God, Lord of the Throne, beyond what they allege."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 23,
+    "arabicText": "لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ",
+    "translationText": "He will not be questioned about what He does, but they will be questioned."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 24,
+    "arabicText": "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةًۭ ۖ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ ۖ هَٰذَا ذِكْرُ مَن مَّعِىَ وَذِكْرُ مَن قَبْلِى ۗ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ ٱلْحَقَّ ۖ فَهُم مُّعْرِضُونَ",
+    "translationText": "Or have they taken, besides Him, other gods? Say, \"Bring your proof. This is a message for those with me, and a message of those before me.\" But most of them do not know the truth, so they turn away."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 25,
+    "arabicText": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ إِلَّا نُوحِىٓ إِلَيْهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدُونِ",
+    "translationText": "We never sent a messenger before you without inspiring him that: \"There is no god but I, so worship Me.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 26,
+    "arabicText": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا ۗ سُبْحَٰنَهُۥ ۚ بَلْ عِبَادٌۭ مُّكْرَمُونَ",
+    "translationText": "And they say, \"The Most Merciful has taken to himself a son.\" Be He glorified; they are but honored servants."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 27,
+    "arabicText": "لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ وَهُم بِأَمْرِهِۦ يَعْمَلُونَ",
+    "translationText": "They never speak before He has spoken, and they only act on His command."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 28,
+    "arabicText": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يَشْفَعُونَ إِلَّا لِمَنِ ٱرْتَضَىٰ وَهُم مِّنْ خَشْيَتِهِۦ مُشْفِقُونَ",
+    "translationText": "He knows what is before them, and what is behind them; and they do not intercede except for him whom He approves; and they tremble in awe of Him."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 29,
+    "arabicText": "۞ وَمَن يَقُلْ مِنْهُمْ إِنِّىٓ إِلَٰهٌۭ مِّن دُونِهِۦ فَذَٰلِكَ نَجْزِيهِ جَهَنَّمَ ۚ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+    "translationText": "And whoever of them says, \"I am a god besides Him,\" We will reward him with Hell. Thus We reward the wrongdoers."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 30,
+    "arabicText": "أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًۭا فَفَتَقْنَٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+    "translationText": "Do the disbelievers not see that the heavens and the earth were one mass, and We tore them apart? And We made from water every living thing. Will they not believe?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 31,
+    "arabicText": "وَجَعَلْنَا فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًۭا سُبُلًۭا لَّعَلَّهُمْ يَهْتَدُونَ",
+    "translationText": "And We placed on earth stabilizers, lest it sways with them, and We placed therein signposts and passages, that they may be guided."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 32,
+    "arabicText": "وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًۭا مَّحْفُوظًۭا ۖ وَهُمْ عَنْ ءَايَٰتِهَا مُعْرِضُونَ",
+    "translationText": "And We made the sky a protected ceiling; yet they turn away from its wonders."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 33,
+    "arabicText": "وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّۭ فِى فَلَكٍۢ يَسْبَحُونَ",
+    "translationText": "It is He who created the night and the day, and the sun and the moon; each floating in an orbit."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 34,
+    "arabicText": "وَمَا جَعَلْنَا لِبَشَرٍۢ مِّن قَبْلِكَ ٱلْخُلْدَ ۖ أَفَإِي۟ن مِّتَّ فَهُمُ ٱلْخَٰلِدُونَ",
+    "translationText": "We did not grant immortality to any human being before you. Should you die, are they then the immortal?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 35,
+    "arabicText": "كُلُّ نَفْسٍۢ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةًۭ ۖ وَإِلَيْنَا تُرْجَعُونَ",
+    "translationText": "Every soul will taste death. We burden you with adversity and prosperity-a test. And to Us you will be returned."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 36,
+    "arabicText": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓا۟ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِى يَذْكُرُ ءَالِهَتَكُمْ وَهُم بِذِكْرِ ٱلرَّحْمَٰنِ هُمْ كَٰفِرُونَ",
+    "translationText": "When those who disbelieve see you, they treat you only with ridicule: \"Is this the one who mentions your gods?\" And they reject the mention of the Merciful."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 37,
+    "arabicText": "خُلِقَ ٱلْإِنسَٰنُ مِنْ عَجَلٍۢ ۚ سَأُو۟رِيكُمْ ءَايَٰتِى فَلَا تَسْتَعْجِلُونِ",
+    "translationText": "The human being was created of haste. I will show you My signs, so do not seek to rush Me."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 38,
+    "arabicText": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ",
+    "translationText": "And they say, \"When will this promise come true, if you are truthful?\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 39,
+    "arabicText": "لَوْ يَعْلَمُ ٱلَّذِينَ كَفَرُوا۟ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ",
+    "translationText": "If those who disbelieve only knew, when they cannot keep the fire off their faces and off their backs, and they will not be helped."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 40,
+    "arabicText": "بَلْ تَأْتِيهِم بَغْتَةًۭ فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ",
+    "translationText": "In fact, it will come upon them suddenly, and bewilder them. They will not be able to repel it, and they will not be reprieved."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 41,
+    "arabicText": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُوا۟ مِنْهُم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+    "translationText": "Messengers before you were also ridiculed, but those who jeered were surrounded by what they had ridiculed."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 42,
+    "arabicText": "قُلْ مَن يَكْلَؤُكُم بِٱلَّيْلِ وَٱلنَّهَارِ مِنَ ٱلرَّحْمَٰنِ ۗ بَلْ هُمْ عَن ذِكْرِ رَبِّهِم مُّعْرِضُونَ",
+    "translationText": "Say, \"Who guards you against the Merciful by night and by day?\" But they turn away from the mention of their Lord."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 43,
+    "arabicText": "أَمْ لَهُمْ ءَالِهَةٌۭ تَمْنَعُهُم مِّن دُونِنَا ۚ لَا يَسْتَطِيعُونَ نَصْرَ أَنفُسِهِمْ وَلَا هُم مِّنَّا يُصْحَبُونَ",
+    "translationText": "Or do they have gods who can defend them against Us? They cannot help themselves, nor will they be protected from Us."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 44,
+    "arabicText": "بَلْ مَتَّعْنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمْ حَتَّىٰ طَالَ عَلَيْهِمُ ٱلْعُمُرُ ۗ أَفَلَا يَرَوْنَ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَآ ۚ أَفَهُمُ ٱلْغَٰلِبُونَ",
+    "translationText": "We have given these enjoyments, and their ancestors, until time grew long upon them. Do they not see how We gradually reduce the land from its extremities? Are they then the victors?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 45,
+    "arabicText": "قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ",
+    "translationText": "Say, \"I am warning you through inspiration.\" But the deaf cannot hear the call when they are being warned."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 46,
+    "arabicText": "وَلَئِن مَّسَّتْهُمْ نَفْحَةٌۭ مِّنْ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيْلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+    "translationText": "And when a breath of your Lord's punishment touches them, they say, \"Woe to us, we were truly wicked.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 47,
+    "arabicText": "وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌۭ شَيْـًۭٔا ۖ وَإِن كَانَ مِثْقَالَ حَبَّةٍۢ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا ۗ وَكَفَىٰ بِنَا حَٰسِبِينَ",
+    "translationText": "We will set up the scales of justice for the Day of Resurrection, so that no soul will suffer the least injustice. And even if it be the weight of a mustard-seed, We will bring it up. Sufficient are We as Reckoners."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 48,
+    "arabicText": "وَلَقَدْ ءَاتَيْنَا مُوسَىٰ وَهَٰرُونَ ٱلْفُرْقَانَ وَضِيَآءًۭ وَذِكْرًۭا لِّلْمُتَّقِينَ",
+    "translationText": "We gave Moses and Aaron the Criterion, and illumination, and a reminder for the righteous."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 49,
+    "arabicText": "ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشْفِقُونَ",
+    "translationText": "Those who fear their Lord in private, and are apprehensive of the Hour."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 50,
+    "arabicText": "وَهَٰذَا ذِكْرٌۭ مُّبَارَكٌ أَنزَلْنَٰهُ ۚ أَفَأَنتُمْ لَهُۥ مُنكِرُونَ",
+    "translationText": "This too is a blessed message that We revealed. Are you going to deny it?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 51,
+    "arabicText": "۞ وَلَقَدْ ءَاتَيْنَآ إِبْرَٰهِيمَ رُشْدَهُۥ مِن قَبْلُ وَكُنَّا بِهِۦ عَٰلِمِينَ",
+    "translationText": "We gave Abraham his integrity formerly, and We knew him well."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 52,
+    "arabicText": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ",
+    "translationText": "When he said to his father and his people, \"What are these statues to which you are devoted?\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 53,
+    "arabicText": "قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ",
+    "translationText": "They said, \"We found our parents worshiping them.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 54,
+    "arabicText": "قَالَ لَقَدْ كُنتُمْ أَنتُمْ وَءَابَآؤُكُمْ فِى ضَلَٰلٍۢ مُّبِينٍۢ",
+    "translationText": "He said, \"You and your parents are in evident error.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 55,
+    "arabicText": "قَالُوٓا۟ أَجِئْتَنَا بِٱلْحَقِّ أَمْ أَنتَ مِنَ ٱللَّٰعِبِينَ",
+    "translationText": "They said, \"Are you telling us the truth, or are you just playing?\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 56,
+    "arabicText": "قَالَ بَل رَّبُّكُمْ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ٱلَّذِى فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّٰهِدِينَ",
+    "translationText": "He said, \"Your Lord is the Lord of the heavens and the earth, the One who created them, and I bear witness to that."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 57,
+    "arabicText": "وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ",
+    "translationText": "\"By God, I will have a plan for your statues after you have gone away.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 58,
+    "arabicText": "فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًۭا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
+    "translationText": "So he reduced them into pieces, except for their biggest, that they may return to it."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 59,
+    "arabicText": "قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ",
+    "translationText": "They said, \"Who did this to our gods? He is certainly one of the wrongdoers.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 60,
+    "arabicText": "قَالُوا۟ سَمِعْنَا فَتًۭى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ",
+    "translationText": "They said, \"We heard a youth mentioning them. He is called Abraham.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 61,
+    "arabicText": "قَالُوا۟ فَأْتُوا۟ بِهِۦ عَلَىٰٓ أَعْيُنِ ٱلنَّاسِ لَعَلَّهُمْ يَشْهَدُونَ",
+    "translationText": "They said, \"Bring him before the eyes of the people, so that they may witness.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 62,
+    "arabicText": "قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبْرَٰهِيمُ",
+    "translationText": "They said, \"Are you the one who did this to our gods, O Abraham?\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 63,
+    "arabicText": "قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ",
+    "translationText": "He said, \"But it was this biggest of them that did it. Ask them, if they can speak.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 64,
+    "arabicText": "فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّٰلِمُونَ",
+    "translationText": "Then they turned to one another, and said, \"You yourselves are the wrongdoers.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 65,
+    "arabicText": "ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ",
+    "translationText": "But they reverted to their old ideas: \"You certainly know that these do not speak.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 66,
+    "arabicText": "قَالَ أَفَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمْ شَيْـًۭٔا وَلَا يَضُرُّكُمْ",
+    "translationText": "He said, \"Do you worship, instead of God, what can neither benefit you in anything, nor harm you?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 67,
+    "arabicText": "أُفٍّۢ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ ۖ أَفَلَا تَعْقِلُونَ",
+    "translationText": "Fie on you, and on what you worship instead of God. Do you not understand?\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 68,
+    "arabicText": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ",
+    "translationText": "They said, \"Burn him and support your gods, if you are going to act.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 69,
+    "arabicText": "قُلْنَا يَٰنَارُ كُونِى بَرْدًۭا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+    "translationText": "We said, \"O fire, be coolness and safety upon Abraham.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 70,
+    "arabicText": "وَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَٰهُمُ ٱلْأَخْسَرِينَ",
+    "translationText": "They planned to harm him, but We made them the worst losers."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 71,
+    "arabicText": "وَنَجَّيْنَٰهُ وَلُوطًا إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا لِلْعَٰلَمِينَ",
+    "translationText": "And We delivered him, and Lot, to the land that We blessed for all people."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 72,
+    "arabicText": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ نَافِلَةًۭ ۖ وَكُلًّۭا جَعَلْنَا صَٰلِحِينَ",
+    "translationText": "And We granted him Isaac and Jacob as a gift; and each We made righteous."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 73,
+    "arabicText": "وَجَعَلْنَٰهُمْ أَئِمَّةًۭ يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ إِلَيْهِمْ فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِ ۖ وَكَانُوا۟ لَنَا عَٰبِدِينَ",
+    "translationText": "And We made them leaders, guiding by Our command; and We inspired them to do good works, and to observe the prayer, and to give out charity. They were devoted servants to Us."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 74,
+    "arabicText": "وَلُوطًا ءَاتَيْنَٰهُ حُكْمًۭا وَعِلْمًۭا وَنَجَّيْنَٰهُ مِنَ ٱلْقَرْيَةِ ٱلَّتِى كَانَت تَّعْمَلُ ٱلْخَبَٰٓئِثَ ۗ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍۢ فَٰسِقِينَ",
+    "translationText": "And Lot-We gave him judgment and knowledge, and We delivered him from the town that practiced the abominations. They were wicked and perverted people."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 75,
+    "arabicText": "وَأَدْخَلْنَٰهُ فِى رَحْمَتِنَآ ۖ إِنَّهُۥ مِنَ ٱلصَّٰلِحِينَ",
+    "translationText": "And We admitted him into Our mercy; for He was one of the righteous."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 76,
+    "arabicText": "وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+    "translationText": "And Noah, when he called before. So We answered him, and delivered him and his family from the great disaster."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 77,
+    "arabicText": "وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ ۚ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍۢ فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ",
+    "translationText": "And We supported him against the people who rejected Our signs. They were an evil people, so We drowned them all."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 78,
+    "arabicText": "وَدَاوُۥدَ وَسُلَيْمَٰنَ إِذْ يَحْكُمَانِ فِى ٱلْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ وَكُنَّا لِحُكْمِهِمْ شَٰهِدِينَ",
+    "translationText": "And David and Solomon, when they gave judgment in the case of the field, when some people's sheep wandered therein by night; and We were witnesses to their judgment."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 79,
+    "arabicText": "فَفَهَّمْنَٰهَا سُلَيْمَٰنَ ۚ وَكُلًّا ءَاتَيْنَا حُكْمًۭا وَعِلْمًۭا ۚ وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ يُسَبِّحْنَ وَٱلطَّيْرَ ۚ وَكُنَّا فَٰعِلِينَ",
+    "translationText": "And so We made Solomon understand it, and to each We gave wisdom and knowledge. And We subjected the mountains along with David to sing Our praises, and the birds as well-surely We did."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 80,
+    "arabicText": "وَعَلَّمْنَٰهُ صَنْعَةَ لَبُوسٍۢ لَّكُمْ لِتُحْصِنَكُم مِّنۢ بَأْسِكُمْ ۖ فَهَلْ أَنتُمْ شَٰكِرُونَ",
+    "translationText": "And We taught him the making of shields for you, to protect you from your violence. Are you, then, appreciative?"
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 81,
+    "arabicText": "وَلِسُلَيْمَٰنَ ٱلرِّيحَ عَاصِفَةًۭ تَجْرِى بِأَمْرِهِۦٓ إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا ۚ وَكُنَّا بِكُلِّ شَىْءٍ عَٰلِمِينَ",
+    "translationText": "And to Solomon the stormy wind, blowing at His command towards the land that We have blessed. We are aware of everything."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 82,
+    "arabicText": "وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعْمَلُونَ عَمَلًۭا دُونَ ذَٰلِكَ ۖ وَكُنَّا لَهُمْ حَٰفِظِينَ",
+    "translationText": "And of the devils were some that dived for him, and performed other, lesser tasks. But We kept them restrained."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 83,
+    "arabicText": "۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+    "translationText": "And Job, when he cried out to his Lord: \"Great harm has afflicted me, and you are the Most Merciful of the merciful.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 84,
+    "arabicText": "فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّۢ ۖ وَءَاتَيْنَٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةًۭ مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَٰبِدِينَ",
+    "translationText": "So We answered him, lifted his suffering, and restored his family to him, and their like with them-a mercy from Us, and a reminder for the worshipers."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 85,
+    "arabicText": "وَإِسْمَٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّۭ مِّنَ ٱلصَّٰبِرِينَ",
+    "translationText": "And Ishmael, and Enoch, and Ezekiel; each was one of the steadfast."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 86,
+    "arabicText": "وَأَدْخَلْنَٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ",
+    "translationText": "And We admitted them into Our mercy. They were among the righteous."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 87,
+    "arabicText": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًۭا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+    "translationText": "And Jonah, when he stormed out in fury, thinking We had no power over him. But then He cried out in the darkness, \"There is no god but You! Glory to You! I was one of the wrongdoers!\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 88,
+    "arabicText": "فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ ۚ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ",
+    "translationText": "So We answered him, and saved him from the affliction. Thus We save the faithful."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 89,
+    "arabicText": "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًۭا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ",
+    "translationText": "And Zechariah, when he called out to his Lord, \"My Lord, do not leave me alone, even though you are the Best of heirs.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 90,
+    "arabicText": "فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ ۚ إِنَّهُمْ كَانُوا۟ يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًۭا وَرَهَبًۭا ۖ وَكَانُوا۟ لَنَا خَٰشِعِينَ",
+    "translationText": "So We answered him, and gave him John. And We cured his wife for him. They used to vie in doing righteous deeds, and used to call on Us in love and awe, and they used to humble themselves to Us."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 91,
+    "arabicText": "وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَٰهَا وَٱبْنَهَآ ءَايَةًۭ لِّلْعَٰلَمِينَ",
+    "translationText": "And she who guarded her virginity. We breathed into her of Our spirit, and made her and her son a sign to the world."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 92,
+    "arabicText": "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمْ أُمَّةًۭ وَٰحِدَةًۭ وَأَنَا۠ رَبُّكُمْ فَٱعْبُدُونِ",
+    "translationText": "This community of yours is one community, and I am your Lord, so worship Me."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 93,
+    "arabicText": "وَتَقَطَّعُوٓا۟ أَمْرَهُم بَيْنَهُمْ ۖ كُلٌّ إِلَيْنَا رَٰجِعُونَ",
+    "translationText": "But they splintered themselves into factions. They will all return to Us."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 94,
+    "arabicText": "فَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤْمِنٌۭ فَلَا كُفْرَانَ لِسَعْيِهِۦ وَإِنَّا لَهُۥ كَٰتِبُونَ",
+    "translationText": "Whoever does righteous deeds, and is a believer, his effort will not be denied. We are writing it down for him."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 95,
+    "arabicText": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَٰهَآ أَنَّهُمْ لَا يَرْجِعُونَ",
+    "translationText": "There is a ban on the town that We had destroyed-that they will not return."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 96,
+    "arabicText": "حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍۢ يَنسِلُونَ",
+    "translationText": "Until, when Gog and Magog are let loose, and they swarm down from every mound."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 97,
+    "arabicText": "وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَٰخِصَةٌ أَبْصَٰرُ ٱلَّذِينَ كَفَرُوا۟ يَٰوَيْلَنَا قَدْ كُنَّا فِى غَفْلَةٍۢ مِّنْ هَٰذَا بَلْ كُنَّا ظَٰلِمِينَ",
+    "translationText": "The promise of truth has drawn near. The eyes of those who disbelieved will stare in horror: \"Woe to us. We were oblivious to this. In fact, we were wrongdoers.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 98,
+    "arabicText": "إِنَّكُمْ وَمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمْ لَهَا وَٰرِدُونَ",
+    "translationText": "You and what you worship besides God are fuel for Hell. You will descend into it."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 99,
+    "arabicText": "لَوْ كَانَ هَٰٓؤُلَآءِ ءَالِهَةًۭ مَّا وَرَدُوهَا ۖ وَكُلٌّۭ فِيهَا خَٰلِدُونَ",
+    "translationText": "Had these been gods, they would not have descended into it. All will abide in it."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 100,
+    "arabicText": "لَهُمْ فِيهَا زَفِيرٌۭ وَهُمْ فِيهَا لَا يَسْمَعُونَ",
+    "translationText": "In it they will wail. In it they will not hear."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 101,
+    "arabicText": "إِنَّ ٱلَّذِينَ سَبَقَتْ لَهُم مِّنَّا ٱلْحُسْنَىٰٓ أُو۟لَٰٓئِكَ عَنْهَا مُبْعَدُونَ",
+    "translationText": "As for those who deserved goodness from Us-these will be kept away from it."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 102,
+    "arabicText": "لَا يَسْمَعُونَ حَسِيسَهَا ۖ وَهُمْ فِى مَا ٱشْتَهَتْ أَنفُسُهُمْ خَٰلِدُونَ",
+    "translationText": "They will not hear its hissing, and they will forever abide in what their hearts desire."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 103,
+    "arabicText": "لَا يَحْزُنُهُمُ ٱلْفَزَعُ ٱلْأَكْبَرُ وَتَتَلَقَّىٰهُمُ ٱلْمَلَٰٓئِكَةُ هَٰذَا يَوْمُكُمُ ٱلَّذِى كُنتُمْ تُوعَدُونَ",
+    "translationText": "The Supreme Fear will not worry them, and the angels will receive them: \"This is your Day which you were promised.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 104,
+    "arabicText": "يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍۢ نُّعِيدُهُۥ ۚ وَعْدًا عَلَيْنَآ ۚ إِنَّا كُنَّا فَٰعِلِينَ",
+    "translationText": "On the Day when We fold the heaven, like the folding of a book. Just as We began the first creation, We will repeat it-a promise binding on Us. We will act."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 105,
+    "arabicText": "وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ ٱلصَّٰلِحُونَ",
+    "translationText": "We have written in the Psalms, after the Reminder, that the earth will be inherited by My righteous servants."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 106,
+    "arabicText": "إِنَّ فِى هَٰذَا لَبَلَٰغًۭا لِّقَوْمٍ عَٰبِدِينَ",
+    "translationText": "Indeed, in this is a message for people who worship."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 107,
+    "arabicText": "وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةًۭ لِّلْعَٰلَمِينَ",
+    "translationText": "We did not send you except as mercy to mankind."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 108,
+    "arabicText": "قُلْ إِنَّمَا يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۖ فَهَلْ أَنتُم مُّسْلِمُونَ",
+    "translationText": "Say, \"It is revealed to me that your God is One God. Are you going to submit?\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 109,
+    "arabicText": "فَإِن تَوَلَّوْا۟ فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍۢ ۖ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌۭ مَّا تُوعَدُونَ",
+    "translationText": "But if they turn away, say, \"I have informed you sufficiently. Although I do not know whether what you are promised is near or far.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 110,
+    "arabicText": "إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ مِنَ ٱلْقَوْلِ وَيَعْلَمُ مَا تَكْتُمُونَ",
+    "translationText": "He knows what is said openly, and He knows what you conceal."
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 111,
+    "arabicText": "وَإِنْ أَدْرِى لَعَلَّهُۥ فِتْنَةٌۭ لَّكُمْ وَمَتَٰعٌ إِلَىٰ حِينٍۢ",
+    "translationText": "\"And I do not know whether it is perhaps a trial for you, and an enjoyment for a while.\""
+  },
+  {
+    "surahId": 21,
+    "ayahNumber": 112,
+    "arabicText": "قَٰلَ رَبِّ ٱحْكُم بِٱلْحَقِّ ۗ وَرَبُّنَا ٱلرَّحْمَٰنُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+    "translationText": "He said, \"My Lord, judge with justice.\" And, \"Our Lord is the Gracious, Whose help is sought against what you allege.\""
+  }
+]

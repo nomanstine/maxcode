@@ -1,0 +1,38 @@
+[
+  {
+    "surahId": 109,
+    "ayahNumber": 1,
+    "arabicText": "قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+    "translationText": "Say, \"O disbelievers."
+  },
+  {
+    "surahId": 109,
+    "ayahNumber": 2,
+    "arabicText": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+    "translationText": "I do not worship what you worship."
+  },
+  {
+    "surahId": 109,
+    "ayahNumber": 3,
+    "arabicText": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+    "translationText": "Nor do you worship what I worship."
+  },
+  {
+    "surahId": 109,
+    "ayahNumber": 4,
+    "arabicText": "وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ",
+    "translationText": "Nor do I serve what you serve."
+  },
+  {
+    "surahId": 109,
+    "ayahNumber": 5,
+    "arabicText": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+    "translationText": "Nor do you serve what I serve."
+  },
+  {
+    "surahId": 109,
+    "ayahNumber": 6,
+    "arabicText": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+    "translationText": "You have your way, and I have my way.\""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "surahId": 103,
+    "ayahNumber": 1,
+    "arabicText": "وَٱلْعَصْرِ",
+    "translationText": "By time."
+  },
+  {
+    "surahId": 103,
+    "ayahNumber": 2,
+    "arabicText": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+    "translationText": "The human being is in loss."
+  },
+  {
+    "surahId": 103,
+    "ayahNumber": 3,
+    "arabicText": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+    "translationText": "Except those who believe, and do good works, and encourage truth, and recommend patience."
+  }
+]
